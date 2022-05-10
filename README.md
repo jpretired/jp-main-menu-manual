@@ -44,7 +44,7 @@ This section documents installation instructions for this module.
 
 1. Download the [latest release](https://github.com/jpretired/jp-main-menu-manual/releases/latest).
 2. Unzip the package into your `webtrees/modules_v4` directory of your web server.
-3. Rename the folder to `jp-,ain-menu-manual`. It's safe to overwrite the respective directory if it already exists.
+3. Rename the folder to `jp-main-menu-manual`. It's safe to overwrite the respective directory if it already exists.
 4. Login to **webtrees** as administrator, go to <span class="pointer">Control Panel/Modules/Genealogy/Menus</span>,
    and find the module. It will be called "Main menu manual". Check if it has a tick for "Enabled".
 5. Finally, click SAVE, to complete the configuration.
