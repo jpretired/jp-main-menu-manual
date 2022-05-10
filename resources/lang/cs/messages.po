@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: jp-main-menu-manual\n"
-"POT-Creation-Date: 2022-05-09 20:32+0200\n"
-"PO-Revision-Date: 2022-05-09 23:49+0200\n"
+"POT-Creation-Date: 2022-05-10 18:53+0200\n"
+"PO-Revision-Date: 2022-05-10 18:54+0200\n"
 "Last-Translator: Josef Prause <josef.prause@gmail.com>\n"
 "Language-Team: \n"
 "Language: cs\n"
@@ -24,7 +24,11 @@ msgstr "Hlavní menu Příručka"
 msgid "Add an extra item to the main menu as a link to a webtrees manual."
 msgstr "Přidat do hlavního menu položku s odkazem na příručky webtrees."
 
-#: MainMenuManual.php:177 resources/views/page-manual.phtml:9
+#: MainMenuManual.php:185
+msgid "Manual"
+msgstr ""
+
+#: resources/views/page-manual.phtml:9
 msgid "webtrees Manual"
 msgstr "Příručka webtrees"
 
@@ -55,3 +59,11 @@ msgstr "wiki příručka v"
 #: resources/views/page-manual.phtml:16
 msgid "German language"
 msgstr "německém jazyce"
+
+#: resources/views/page-manual.phtml:17
+msgid "a commercial manual in"
+msgstr "komerční příručka v"
+
+#: resources/views/page-manual.phtml:17
+msgid "English language"
+msgstr "anglickém jazyce"

@@ -2,7 +2,6 @@
 # webtrees module jp-main-menu-manual
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
-
 ![webtrees major version](https://img.shields.io/badge/webtrees-v2.1.x-green)
 ![Latest Release](https://img.shields.io/github/v/release/jpretired/jp-main-menu-manual)
 
@@ -76,9 +75,9 @@ There are now, beside English, Czech and German, no other translations available
 <a name="license"></a>
 ## License
 
-* Copyright (C) 2020 Josef Prause
-* Copyright (C) 2022 Hermann Hartenthaler
-* Derived from **webtrees** - Copyright 2022 webtrees development team.
+* Copyright © 2020 Josef Prause 
+* Copyright © 2022 Hermann Hartenthaler
+* Derived from **webtrees** - © 2022 webtrees development team.
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by

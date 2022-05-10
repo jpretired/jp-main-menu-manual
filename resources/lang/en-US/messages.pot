@@ -1,7 +1,8 @@
+#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: jp-main-menu-manual\n"
-"POT-Creation-Date: 2022-05-09 20:32+0200\n"
+"POT-Creation-Date: 2022-05-10 18:52+0200\n"
 "PO-Revision-Date: 2022-05-09 20:47+0200\n"
 "Last-Translator: Josef Prause <josef.prause@gmail.com>\n"
 "Language-Team: \n"
@@ -24,8 +25,12 @@ msgstr ""
 msgid "Add an extra item to the main menu as a link to a webtrees manual."
 msgstr ""
 
-#: MainMenuManual.php:177 resources/views/page-manual.phtml:9
+#: MainMenuManual.php:185
 msgid "Manual"
+msgstr ""
+
+#: resources/views/page-manual.phtml:9
+msgid "webtrees Manual"
 msgstr ""
 
 #: resources/views/page-manual.phtml:11
@@ -54,4 +59,12 @@ msgstr ""
 
 #: resources/views/page-manual.phtml:16
 msgid "German language"
+msgstr ""
+
+#: resources/views/page-manual.phtml:17
+msgid "a commercial manual in"
+msgstr ""
+
+#: resources/views/page-manual.phtml:17
+msgid "English language"
 msgstr ""
