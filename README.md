@@ -6,8 +6,7 @@
 ![Latest Release](https://img.shields.io/github/v/release/jpretired/jp-main-menu-manual)
 
 This [webtrees](https://www.webtrees.net/) custom module adds
-a main menu item which links to a webtrees manual
-(depending on the used language).
+a main menu item which links to a page listing various webtrees manuals.
 
 ## Contents
 This Readme contains the following main sections
@@ -24,7 +23,7 @@ This Readme contains the following main sections
 ## Description
 
 This custom module adds an item to the main menu.
-Behind that item there is a link to a webtrees manual in English, Czech or German language.
+Behind that item there is a link to a page listing so far known webtrees manuals.
 This module is inspired by a [module of JustCarmen](https://github.com/JustCarmen/webtrees-simple-menu).
 Then Hermann Hartenthaler has contributed with valuable proposals.
 
