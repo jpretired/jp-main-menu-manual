@@ -25,7 +25,6 @@ declare(strict_types=1);
 
 namespace JpNamespace\Webtrees\Module\MainMenuManual;
 
-use Fisharebest\Webtrees\Auth;
 use Fisharebest\Webtrees\I18N;
 use Fisharebest\Localization\Translation;
 use Fisharebest\Webtrees\Menu;
@@ -51,10 +50,9 @@ class MainMenuManual extends AbstractModule implements ModuleCustomInterface, Mo
     public const CUSTOM_AUTHOR = 'Josef Prause';
     public const CUSTOM_WEBSITE = 'https://github.com/jpretired/' . self::CUSTOM_MODULE . '/';
     public const CUSTOM_VERSION = '2.1.0';
-    public const CUSTOM_LAST = self::CUSTOM_WEBSITE . 'latest/';
+    public const CUSTOM_LAST = self::CUSTOM_WEBSITE . 'raw/main/latest-version.txt';
     public const CUSTOM_SUPPORT_URL = self::CUSTOM_WEBSITE . 'issues';
 
-    private $lang_switch;
     /**
      * How should this module be identified in the control panel, etc.?
      *

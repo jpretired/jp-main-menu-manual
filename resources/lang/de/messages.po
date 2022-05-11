@@ -1,0 +1,71 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jp-main-menu-manual\n"
+"POT-Creation-Date: 2022-05-11 00:53+0200\n"
+"PO-Revision-Date: 2022-05-11 01:18+0200\n"
+"Last-Translator: Josef Prause <josef.prause@gmail.com>\n"
+"Language-Team: \n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n>=2 && n<=4 ? 1 : 2);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: ;translate\n"
+"X-Poedit-SearchPath-0: MainMenuManual.php\n"
+"X-Poedit-SearchPath-1: resources/views/page-manual.phtml\n"
+
+#: MainMenuManual.php:65
+msgid "Main menu manual"
+msgstr "Hauptmenüpunkt Handbuch"
+
+#: MainMenuManual.php:76
+msgid "Add an extra item to the main menu as a link to a webtrees manual."
+msgstr ""
+"Fügt einen zusätzlichen Hauptmenüpunkt als Link zu einem webtrees-Handbuch "
+"hinzu."
+
+#: MainMenuManual.php:185
+msgid "Manual"
+msgstr "Handbuch"
+
+#: resources/views/page-manual.phtml:9
+msgid "webtrees Manual"
+msgstr "webtrees-Handbuch"
+
+#: resources/views/page-manual.phtml:11
+msgid "The official webtrees documentation can be found at"
+msgstr "Die offizielle Dokumentation zu webtrees findet man unter"
+
+#: resources/views/page-manual.phtml:11
+msgid "see menu"
+msgstr "siehe Menü"
+
+#: resources/views/page-manual.phtml:13
+msgid "There are several manuals for webtrees:"
+msgstr "Es gibt mehrere Handbücher für webtrees:"
+
+#: resources/views/page-manual.phtml:15
+msgid "a manual in"
+msgstr "ein Handbuch in"
+
+#: resources/views/page-manual.phtml:15
+msgid "Czech language"
+msgstr "Tschechischer Sprache"
+
+#: resources/views/page-manual.phtml:16
+msgid "a wiki-based manual in"
+msgstr "ein wiki-basiertes Handbuch in"
+
+#: resources/views/page-manual.phtml:16
+msgid "German language"
+msgstr "Deutscher Sprache"
+
+#: resources/views/page-manual.phtml:17
+msgid "a commercial manual in"
+msgstr "ein kommerzielles Handbuch in"
+
+#: resources/views/page-manual.phtml:17
+msgid "English language"
+msgstr "Englischer Sprache"
