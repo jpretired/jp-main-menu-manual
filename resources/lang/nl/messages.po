@@ -1,0 +1,69 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: jp-main-menu-manual\n"
+"POT-Creation-Date: 2022-05-11 00:53+0200\n"
+"PO-Revision-Date: 2022-11-28 20:44+0100\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-Basepath: ../../..\n"
+"X-Poedit-KeywordsList: ;translate\n"
+"Last-Translator: Roel Jongman <roeljj@gmail.com>\n"
+"Language: nl_NL\n"
+"X-Poedit-SearchPath-0: MainMenuManual.php\n"
+"X-Poedit-SearchPath-1: resources/views/page-manual.phtml\n"
+
+#: MainMenuManual.php:65
+msgid "Main menu manual"
+msgstr "Hoofdmenu handleiding"
+
+#: MainMenuManual.php:76
+msgid "Add an extra item to the main menu as a link to a webtrees manual."
+msgstr "Voeg een extra item toe aan het hoofdmenu met een link naar een webtrees handleiding"
+
+#: MainMenuManual.php:185
+msgid "Manual"
+msgstr "Handleiding"
+
+#: resources/views/page-manual.phtml:9
+msgid "webtrees Manual"
+msgstr "webtrees handleiding"
+
+#: resources/views/page-manual.phtml:11
+msgid "The official webtrees documentation can be found at"
+msgstr "De officiële webtrees documentatie vind je op"
+
+#: resources/views/page-manual.phtml:11
+msgid "see menu"
+msgstr "zie menu"
+
+#: resources/views/page-manual.phtml:13
+msgid "There are several manuals for webtrees:"
+msgstr "Er zijn meerdere handleidingen voor webtrees:"
+
+#: resources/views/page-manual.phtml:15
+msgid "a manual in"
+msgstr "een handleiding in het "
+
+#: resources/views/page-manual.phtml:15
+msgid "Czech language"
+msgstr "Tsjechisch"
+
+#: resources/views/page-manual.phtml:16
+msgid "a wiki-based manual in"
+msgstr "een wiki-handleiding in het"
+
+#: resources/views/page-manual.phtml:16
+msgid "German language"
+msgstr "Duits"
+
+#: resources/views/page-manual.phtml:17
+msgid "a commercial manual in"
+msgstr "een betaalde handleiding in het"
+
+#: resources/views/page-manual.phtml:17
+msgid "English language"
+msgstr "Engels"
